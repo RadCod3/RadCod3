@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RadCod3
 - 👀 I’m interested in CS
-- 🌱 I’m currently learning Python mostly
+- 🌱 I’m currently learning Python/C++/Java
 
 <!---
 RadCod3/RadCod3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
