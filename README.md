@@ -14,7 +14,7 @@ Thank you for visiting my profile 🙏 and I hope you enjoy exploring my project
 
 ##### My skills:
 <div style="display: flex;">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="React" style="height: 25px; margin-right: 5px;">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React" style="height: 25px; margin-right: 5px;">
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" style="height: 25px; margin-right: 5px;">
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="TypeScript" style="height: 25px; margin-right: 5px;">
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" style="height: 25px; margin-right: 5px;">
